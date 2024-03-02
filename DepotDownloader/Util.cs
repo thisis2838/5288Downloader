@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DepotDownloader
 {
-    static class Util
+    class Util
     {
         public static string GetSteamOS()
         {
